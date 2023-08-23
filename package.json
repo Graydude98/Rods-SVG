@@ -3,16 +3,16 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-
   "scripts": {
     "test": "jest"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "9.2.10"
+    "inquirer": "8.2.4",
+    "open": "^9.1.0"
   },
   "devDependencies": {
-    "jest": "^29.6.3"
+    "jest": "^28.1.3"
   }
 }
